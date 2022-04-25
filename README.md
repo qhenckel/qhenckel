@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a mostly self taught swftware developer.  My education is in law enforcement but I am switching carreers to software development for a better work-life balance.
+I am a mostly self-taught software developer.  My education is in law enforcement but I am switching carreers to software development for a better work-life balance.
 
 [Books of Yesterday](https://booksofyesterday.com/) is my most recent professional work.
 
