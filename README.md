@@ -1,12 +1,9 @@
 ### Hi there 👋
 
+I am a mostly self taught swftware developer.  My education is in law enforcement but I am switching carreers to software development for a better work-life balance.
 
+[Books of Yesterday](https://booksofyesterday.com/) is my most recent professional work.
 
-<!--
-**qhenckel/qhenckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current hobby projects include a Unity VR-first game, a cook book app, and a guitar chord's website.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: A multiplayer VR game based in Unity.
-- 📫 How to reach me: Quinn.Henckel@gmail.com
--->
+Feel free to contact me at Quinn.Henckel@gmail.com
